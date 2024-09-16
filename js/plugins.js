@@ -56,9 +56,5 @@ var $plugins =
 {"name":"SealEscapeCommand","status":true,"description":"［逃げる］コマンドが使用できなくなる特徴を作ります。","parameters":{}},
 {"name":"DarkPlasma_OrderIdAlias","status":true,"description":"Set id to skill, item for display order","parameters":{"sortSkillById":"false"}},
 {"name":"_DLsite_DEBUG_MODE_MVMZ","status":false,"description":"デバッグモード（MV/MZ両対応）","parameters":{"GetAllItems":"true","GetAllSkills":"true","LevelMax":"true","ShowMapIDKey":"F8","ScreenShotKey":"F1"}},
-{"name":"DLsite_TranslationConvertMVMZ_v1_0_1","status":true,"description":"翻訳テキストに自動でコンバートします(MV/MZ両対応)","parameters":{"Accuracy":"true","TemplateEvent":"{\"useTemplateEv\":\"false\",\"tempMapId\":\"1\"}"}},
-
-{"name":"AudioStreaming","status":true,"description":"音声読み込みを高速化し、oggファイルのみを使用します。","parameters":{"mode":"10","deleteM4a":"false"}},
-{"name":"stbvorbis_stream","status":false,"description":"","parameters":{}},
-{"name":"stbvorbis_stream_asm","status":false,"description":"","parameters":{}},
+{"name":"DLsite_TranslationConvertMVMZ_v1_0_1","status":true,"description":"翻訳テキストに自動でコンバートします(MV/MZ両対応)","parameters":{"Accuracy":"true","TemplateEvent":"{\"useTemplateEv\":\"false\",\"tempMapId\":\"1\"}"}}
 ];
