@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"帝国特務捜査官の制服。\n強度を高めた特殊布で作られており、防御力が高い。","etypeId":2,"traits":[],"iconIndex":154,"name":"ロイヤリティー・コート","note":"<OrderId:93>","params":[0,0,0,20,0,20,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"帝国特務捜査官の制服。\n強度を高めた特殊布で作られており、防御力が高い。","etypeId":2,"traits":[],"iconIndex":154,"name":"忠诚・外套+\\v[38]","note":"<DD防御力:prev + \\V[38] * 5>\n<DD魔法防御:prev + \\V[38] * 5>\n<OrderId:94>","params":[0,0,0,20,0,20,0,0],"price":0},
+{"id":3,"atypeId":2,"description":"治癒の力を秘めた魔導具。\n回復系・強化系の魔法を習得することができる。","etypeId":3,"traits":[],"iconIndex":145,"name":"ヒールリング","note":"<OrderId:95>","params":[0,0,0,5,0,5,0,0],"price":0},
+{"id":4,"atypeId":3,"description":"氷の力を宿した魔導具。\n氷結系・弱体系の魔法を習得することができる。","etypeId":4,"traits":[],"iconIndex":147,"name":"アイシクルピアス","note":"<OrderId:96>","params":[0,0,5,0,5,0,0,0],"price":0},
+{"id":5,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":6,"atypeId":4,"description":"革で作られた高級感のあるブーツ。","etypeId":5,"traits":[],"iconIndex":430,"name":"レザーブーツ","note":"<OrderId:15>","params":[0,0,0,7,0,7,9,0],"price":0},
+{"id":7,"atypeId":4,"description":"革で作られた高級感のある手袋。","etypeId":5,"traits":[],"iconIndex":462,"name":"レザーグローブ","note":"<OrderId:16>","params":[0,0,7,6,0,6,0,0],"price":0},
+{"id":8,"atypeId":4,"description":"金の装飾が施された腕輪。","etypeId":5,"traits":[],"iconIndex":464,"name":"金の腕輪","note":"<OrderId:17>","params":[0,0,8,8,9,9,0,0],"price":0},
+{"id":9,"atypeId":4,"description":"邪悪なものを退ける力を持ったブローチ。\n毒を無効化する。","etypeId":5,"traits":[{"code":14,"dataId":4,"value":1}],"iconIndex":630,"name":"退魔のブローチ","note":"<OrderId:18>","params":[0,0,0,7,5,9,0,8],"price":0},
+{"id":10,"atypeId":4,"description":"黒曜石で作られたペンダント。\n暗闇を無効化する。","etypeId":5,"traits":[{"code":14,"dataId":5,"value":1}],"iconIndex":607,"name":"ダークペンダント","note":"<OrderId:19>","params":[0,0,0,6,8,8,0,6],"price":0},
+{"id":11,"atypeId":4,"description":"膨大な魔力が込められた魔導書。\n沈黙を無効化する。","etypeId":5,"traits":[{"code":14,"dataId":6,"value":1}],"iconIndex":714,"name":"魔力の書","note":"<OrderId:20>","params":[0,0,0,0,20,5,0,10],"price":0},
+{"id":12,"atypeId":4,"description":"燃えるように赤いネクタイ。","etypeId":5,"traits":[],"iconIndex":664,"name":"深紅のネクタイ","note":"<OrderId:21>","params":[0,0,22,8,0,0,0,10],"price":0},
+{"id":13,"atypeId":4,"description":"風のように体が軽くなるスカーフ。","etypeId":5,"traits":[],"iconIndex":683,"name":"疾風のスカーフ","note":"<OrderId:22>","params":[0,0,0,10,0,6,25,8],"price":0},
+{"id":14,"atypeId":4,"description":"永遠に溶けない氷の塊。","etypeId":5,"traits":[],"iconIndex":780,"name":"永久氷塊","note":"<OrderId:23>","params":[0,0,0,0,35,0,0,0],"price":0},
+{"id":15,"atypeId":4,"description":"帝国の勝利を記念したメダル。","etypeId":5,"traits":[],"iconIndex":776,"name":"勝利のメダル","note":"<OrderId:24>","params":[0,0,18,18,18,18,18,18],"price":0},
+{"id":16,"atypeId":4,"description":"持つ者に幸運が訪れるといわれる不思議な羽。","etypeId":5,"traits":[],"iconIndex":825,"name":"幸運の羽","note":"<OrderId:25>","params":[0,0,10,10,10,10,20,20],"price":0},
+{"id":17,"atypeId":4,"description":"装備した者の力を吸い取ってしまう骸骨。\n全ての能力値が大幅に減少する。","etypeId":5,"traits":[{"code":21,"dataId":2,"value":0.1},{"code":21,"dataId":3,"value":0.1},{"code":21,"dataId":4,"value":0.1},{"code":21,"dataId":5,"value":0.1},{"code":21,"dataId":6,"value":0.1},{"code":21,"dataId":7,"value":0.1}],"iconIndex":826,"name":"スカルヘッド","note":"<OrderId:26>","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

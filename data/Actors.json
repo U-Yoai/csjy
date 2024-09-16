@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"c001","classId":1,"equips":[1,1,3,4],"faceIndex":1,"faceName":"f001","traits":[{"code":41,"dataId":1,"value":1},{"code":41,"dataId":2,"value":1},{"code":51,"dataId":1,"value":1},{"code":52,"dataId":1,"value":1},{"code":52,"dataId":2,"value":1},{"code":52,"dataId":3,"value":1},{"code":52,"dataId":4,"value":1},{"code":53,"dataId":1,"value":1},{"code":53,"dataId":2,"value":1},{"code":53,"dataId":3,"value":1},{"code":53,"dataId":4,"value":1},{"code":22,"dataId":0,"value":1},{"code":23,"dataId":5,"value":0},{"code":62,"dataId":3,"value":1}],"initialLevel":1,"maxLevel":99,"name":"ソフィア","nickname":"","note":"<equipSlotEx:1 2 3 4 5 5>\n<actorCommand:\n  skill\n  guard\n  item\n>","profile":"帝国内の難解な事件の解決を専門とする特務捜査官。\n本名は、アーデルハイト・フォン・フィラルベルク。"}
+]
